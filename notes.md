@@ -69,6 +69,8 @@
   - npm run dev
     - This will create development environment
 - Why do we create `page.tsx` file. Because nextjs folder k andar page.tsx ko render karta hai
+- `rfc` this will create react component
+  - This snippet become available after installing ES7 extension (ES7+ React/Redux/React-Native snippets)
 
 ### Random
 
@@ -78,3 +80,7 @@
 
 
 ### Configuration vs Convention
+
+#### Task
+
+- Cover Readme file from Next JS repository in Panaverse

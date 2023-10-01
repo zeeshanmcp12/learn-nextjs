@@ -59,7 +59,7 @@
   - Is case main command framework k pas hai
 - Library - is main hame components banane hote hain
   - Library main wo sab code karna parta jo hamne above command ko execute kar k complete kiya hai.
-  - Library main ham apni marzi 
+  - Library main ham apni marzi chala sakte hain, like insallation, package addition etc
 
 
 ## How-TO
@@ -71,6 +71,7 @@
 - Why do we create `page.tsx` file. Because nextjs folder k andar page.tsx ko render karta hai
 - `rfc` this will create react component
   - This snippet become available after installing ES7 extension (ES7+ React/Redux/React-Native snippets)
+- execute `npm install -g vercel` to install it globally and for vercel deployments.
 
 ### Random
 
